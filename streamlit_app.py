@@ -1,8 +1,7 @@
-$ pip install streamlit
 import streamlit as st
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 
 # Title of the webpage
 st.title('Streamlit Example App')
